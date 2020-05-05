@@ -29,6 +29,11 @@ padding: 30px;
 h1, h2, h3, h4, h4{
     color: #11999e;
 }
+
+h5{
+    display: inline-block;
+
+}
 .header-contact{
     float: right;
     padding: 30px;
